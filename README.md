@@ -1,6 +1,6 @@
 # Hey, I'm Patsy 👋 
   
-🐱 I’m a Product Manager living in the UK.  With genuine interest in avoiding bias and finding the right point of view for my stories.  
+🐱 I’m a Product Manager living in the UK.
   
 🤓 I'm currently learning python and prediective analytics. 
 <!---
