@@ -1,6 +1,6 @@
 # Hey, I'm Liu 👋 
   
-🐱 I’m a Product Manager living in the UK.
+🔎 I’m a self-learner living in the UK.
   
 🤓 I'm currently learning python and prediective analytics to solve problems.
 <!---
